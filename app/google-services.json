@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1045883841864",
+    "firebase_url": "https://smsreaddemo.firebaseio.com",
+    "project_id": "smsreaddemo",
+    "storage_bucket": "smsreaddemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045883841864:android:76d0ca6314612b003e577d",
+        "android_client_info": {
+          "package_name": "com.innobles.readsmsapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045883841864-efv4vmo3lu56bgs3n2t5lhruo96lcihm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.innobles.readsmsapplication",
+            "certificate_hash": "f1ad1888396cabf65732a71766493a97a67ce6bc"
+          }
+        },
+        {
+          "client_id": "1045883841864-33olilm2tra7e9muh9k43bfodf2qrth5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0yQqXjazXlcmyvKzFUP2XOEaMUr5WG_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045883841864-33olilm2tra7e9muh9k43bfodf2qrth5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
